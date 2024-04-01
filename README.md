@@ -1,3 +1,6 @@
+
+# Example using BERT pre-trained model and BioBERT pre-trained model and the tokenizer for medical texts.
+
 # BERT PLN
 BERT (Bidirectional Encoder Representations from Transformers) is a natural language processing (NLP) model developed by Google. It is a neural network architecture based on transformers that has demonstrated outstanding performance in a variety of NLP tasks such as sentiment analysis, machine translation, entity recognition, and many others.
 
